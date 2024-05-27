@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer"
 
 const randomNumber: number = Math.floor(10000 + Math.random() * 90000)
